@@ -1,4 +1,3 @@
-
 ---
 title: Banglish to Bangla
 emoji: 🔤
@@ -20,6 +19,11 @@ Qwen2.5-1.5B-Instruct model with a LoRA adapter.
 - Browser-based HTML interface
 - JSON API at `/convert`
 - API documentation at `/docs`
+
+
+![alt text](image.png)
+
+
 
 ## API example
 
